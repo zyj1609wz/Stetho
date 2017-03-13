@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.zyj.stetho.MainActivity"
+    android:orientation="vertical"
+    >
+
+    <EditText
+        android:id="@+id/et"
+        android:padding="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="请输入你要存储的数据"
+        />
+
+    <Button
+        android:id="@+id/put_bt"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="存数据"
+        android:padding="10dp"
+        android:textSize="20sp"
+        />
+
+    <Button
+        android:id="@+id/get_bt"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="取数据"
+        android:padding="10dp"
+        android:textSize="20sp"
+        />
+
+    <TextView
+        android:id="@+id/get_tv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        />
+
+    <Button
+        android:id="@+id/net_bt"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="网络操作"
+        android:padding="10dp"
+        android:textSize="20sp"
+        />
+
+</LinearLayout>
