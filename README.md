@@ -13,13 +13,18 @@ dependencies {
 ## 其他说明
 
 - 本例子中的数据库用的是：`lite-orm-1.9.2,jar` 
-  地址是：[https://github.com/litesuits/android-lite-orm](https://github.com/litesuits/android-lite-orm)
+
+地址是：[https://github.com/litesuits/android-lite-orm](https://github.com/litesuits/android-lite-orm)
+
 博客地址：[http://www.cnblogs.com/zhaoyanjun/p/5640788.html](http://www.cnblogs.com/zhaoyanjun/p/5640788.html)
 
 - 本例字中使用的网络请求框架为：`okhttp`
+
 地址：[https://github.com/square/okhttp](https://github.com/square/okhttp)
 
-- 这个文章所有的代码以上传至Github：[https://github.com/zyj1609wz/Stetho](https://github.com/zyj1609wz/Stetho)
+- 这个文章所有的代码以上传至Github：
+
+[https://github.com/zyj1609wz/Stetho](https://github.com/zyj1609wz/Stetho)
 
 ## 详细教程
 
