@@ -20,3 +20,7 @@ dependencies {
 地址：[https://github.com/square/okhttp](https://github.com/square/okhttp)
 
 - 这个文章所有的代码以上传至Github：[https://github.com/zyj1609wz/Stetho](https://github.com/zyj1609wz/Stetho)
+
+## 详细教程
+
+http://blog.csdn.net/zhaoyanjun6/article/details/61919840
